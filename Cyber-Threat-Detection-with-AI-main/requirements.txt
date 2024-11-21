@@ -1,0 +1,36 @@
+# Core ML/Data Science
+tensorflow>=2.0.0
+numpy>=1.19.2
+pandas>=1.1.3
+scikit-learn>=0.23.2
+
+# PE File Analysis
+pefile>=2019.4.18
+
+# API Interactions
+requests>=2.24.0
+urllib3>=1.26.0
+
+# File Operations
+pyzipper>=0.3.1
+
+# Cryptography
+cryptography>=3.3.2
+
+# Threading Support
+threading2>=0.3.1
+
+# Data Serialization
+pickle5>=0.0.11
+
+# Compression
+zlib>=1.2.11
+
+# HTTP/Network
+certifi>=2020.6.20
+chardet>=3.0.4
+idna>=2.10
+
+# Optional Dependencies
+tqdm>=4.50.2  # Progress bars
+python-dotenv>=0.15.0  # Environment variables 
